@@ -4,7 +4,9 @@
 
 # Library Imports
 from datetime import datetime, timedelta
-import re
+import pandas as pd
+import requests
+from requests.api import request
 
 # Initialization
 BASE_URL = "https://api.worldweatheronline.com/premium/v1/past-weather.ashx"
@@ -58,10 +60,9 @@ def main():
         start_date, end_date = get_date_range(start_date)
 
         print(send_request(start_date, end_date))
-        print(start_date)
         find_next_week(start_date)
 
-    print("Finished finding days")
+    print("Program Executed")
 
 
 def find_next_week(start):
@@ -106,8 +107,19 @@ def get_date_range(start_date):
 def send_request(start_date: str, end_date: str):
     requestURL = f"{BASE_URL}?key={API_KEY}&q={Q}&date={start_date}&enddate={end_date}&tp={FREQUENCY}&format={FORMAT}"
 
-    response = "Requesting..."
-    return response
+    print("Requesting...")
+    r = requests.get(url=requestURL)
+    if r.status_code == 200:
+        print("Request Succeeded...")
+        j = r.json()
+        df = pd.json_normalize(j)
+        fileExtention = '~/Documents/GitHub/Order-Assistant'
+        fileName = 'WeatherData1.csv'
+        df.to_csv(f'{fileExtention}/{fileName}')
+        return f'Saved to file {fileName}'
+
+    else:
+        return 'request failed'
 
 
 def get_month_from_index(index):
