@@ -4,6 +4,7 @@
 
 # Library Imports
 from datetime import datetime, timedelta
+import numpy as np
 import pandas as pd
 import requests
 from requests.api import request
@@ -41,26 +42,27 @@ FREQUENCY = 12
 # format XML (default), JSON
 FORMAT = "JSON"
 
-# dataset = RetrieveByAttribute(API_KEY, Q, start_date, end_date, FREQUENCY).retrieve_hist_data()
-
 
 def main():
-
     # Starting date 
     day = 16
     month = "Sep"
     year = 2019
-
     start_date = f'{year}-{MONTHS[month]}-{day}'
 
     # Weeks of data required
-    WEEKS = 1
+    WEEKS = 100
+    data = []
+
+    print('Preparing Data Download')
 
     for i in range(WEEKS):
+        print(f'Downloading Week {i}...')
         start_date, end_date = get_date_range(start_date)
+        data.append([start_date, send_request(start_date, end_date)])
+        start_date = find_next_week(start_date)
 
-        print(send_request(start_date, end_date))
-        find_next_week(start_date)
+    save_to_file(data)
 
     print("Program Executed")
 
@@ -69,8 +71,6 @@ def find_next_week(start):
 
     year, month, day = start.split('-')
     date = f'{day}/{get_month_from_index(month)}/{year}'
-
-    print(f'date = {date}')
 
     dt = datetime.strptime(date, '%d/%b/%Y')
     start = dt - timedelta(days=dt.weekday())
@@ -86,7 +86,6 @@ def find_next_week(start):
 def get_date_range(start_date):
 
     start_year, month_numerical, start_day = start_date.split('-')
-
     start_month = get_month_from_index(month_numerical)
     
     date = f'{start_day}/{start_month}/{start_year}'
@@ -104,24 +103,35 @@ def get_date_range(start_date):
     return (start_date, end_date)
 
 
-def send_request(start_date: str, end_date: str):
-    requestURL = f"{BASE_URL}?key={API_KEY}&q={Q}&date={start_date}&enddate={end_date}&tp={FREQUENCY}&format={FORMAT}"
+def save_to_file(data):
+    
+    df = np.asarray(data)
+    fileExtention = '~/Documents/GitHub/Order-Assistant'
+    fileName = 'WeatherData.csv'
+    pd.DataFrame(data).to_csv(f'{fileExtention}/{fileName}')
 
-    print("Requesting...")
+
+def send_request(start_date: str, end_date: str):
+
+    requestURL = f"{BASE_URL}?key={API_KEY}&q={Q}&date={start_date}&enddate={end_date}&format={FORMAT}"
     r = requests.get(url=requestURL)
+
     if r.status_code == 200:
-        print("Request Succeeded...")
         j = r.json()
         df = pd.json_normalize(j)
-        fileExtention = '~/Documents/GitHub/Order-Assistant'
-        fileName = 'WeatherData1.csv'
-        df.to_csv(f'{fileExtention}/{fileName}')
-        return f'Saved to file {fileName}'
 
+        dataToSave = []
+        avgtempC = 0
+        for i in range(7):
+            avgtempC += int(df['data.weather'][0][i]['avgtempC'])
+        avgtempC = avgtempC/7
+        return avgtempC
     else:
         return 'request failed'
 
 
 def get_month_from_index(index):
     return list(MONTHS.keys())[list(MONTHS.values()).index(index)]
+
+
 main()
