@@ -1,0 +1,858 @@
+{
+    "BEVERAGES": {
+        "591ml Pepsi": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "591ml Diet Pepsi": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "591ml Mountain Dew": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "591ml Diet Mtn Dew": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "591ml Aquafina": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "591ml Dr Pepper": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "591ml Mug Root Beer": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "591ml Schw Gngr Ale": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "591ml WCherry Pepsi": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "591ml Crush Orange": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "591ml Seven Up": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "591ml Brsk IceT": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "2Ltr Pepsi": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "2Ltr Diet Pepsi": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "2Ltr Mountain Dew": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "2Ltr Dt Mtn Dew": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "2Ltr Dr Pepper": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "2Ltr Mug Root Beer": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "2Ltr Schw Gngr Ale": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "2Ltr Crush Orange": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "2Ltr Brsk SwTea Lm": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "2Ltr Seven Up": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "355ml Pepsi": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "355ml Diet Pepsi": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "355ml Diet Mtn Dew": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "355ml Dr Pepper": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "355ml Schw Gngr Ale": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "355ml Brsk SwTea Lm": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "355ml Seven Up": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "12oz Welch Gr Soda": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        }
+    },
+    "CHEESE": {
+        "Cheddar Cheese": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Three Cheese Blend": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "String Cheese": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Agropur Cheese": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "2 Cheese": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "3 Cheese": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Feta Cheese": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Philly Whipped Cream Chee": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        }
+    },
+    "MEATS": {
+        "Pepperoni": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Bacon": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Salami": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Italian Sausage": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Anchovies": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Grilled Chicken": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Chicken Popper": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Canadian Bacon": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Philly Cheesesteak": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Sliced Spicy Meatballs": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Meatball": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Beef": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Sausage": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Roasted Wings": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Donair Topping": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        }
+    },
+    "PRODUCE": {
+        "Banana Peppers": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Black Olives": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Pineapple Lg Can": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Mushrooms": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Fresh Spinach": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Green Peppers": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Onions": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Tomatoes": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Pepperoncini Peppers": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Jalapeno Peppers": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Green Olives": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        }
+    },
+    "DOUGH": {
+        "Dough Tray 10": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Dough Tray 12": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Dough Tray 14": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Dough Tray 16": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Chocolate Chip Cookie": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Choc Chip Brownie": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Cinnamon Pull Apart": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Thin Crust 14": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Gluten Free Crust": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        }
+    },
+    "SAUCES": {
+        "Bulk Ranch Sauce": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Pizza Sauce": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Jug Garlic Sauce": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Garlic Sauce Cups": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Pizza Sauce Cups": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Cheese Sauce Cups": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Ranch Sauce Cups": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Barbecue Sauce Cups": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Buffalo Sauce Cups": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Honey Must Sauce Cups": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Blue Cheese Sauce Cups": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Barbecue Sauce": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Garlic Parmesan Sauce Jug": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Buffalo Sauce": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Pouch Honey Chptl": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "BBQ Bulk": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Alfredo Sauce": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Spinach Alfredo Sauce": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Cream Cheese Flavored Ici": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Creamy Garlic Dipping Cup": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Donair Sauce": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Hellman's Bulk Ranch": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        }
+    },
+    "SEASONS/FLOUR": {
+        "Italian Seasoning": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Seasoning Packets": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Parmesan": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Crushed Red Pepper": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Dustinator": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        }
+    },
+    "BOXES": {
+        "Pizza Box 10": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Pizza Box 12": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Pizza Box 14": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Pizza Box 16": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        },
+        "Pizza Slice Box": {
+            "Begin": 0.0,
+            "Delivery": 350.0,
+            "End": 363.0,
+            "Used": 0.0,
+            "Cost": 0.0,
+            "% of sales": 0.0
+        }
+    }
+}

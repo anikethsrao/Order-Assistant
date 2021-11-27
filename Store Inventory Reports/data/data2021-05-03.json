@@ -1,0 +1,858 @@
+{
+    "BEVERAGES": {
+        "591ml Pepsi": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "591ml Diet Pepsi": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "591ml Mountain Dew": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "591ml Diet Mtn Dew": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "591ml Aquafina": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "591ml Dr Pepper": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "591ml Mug Root Beer": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "591ml Schw Gngr Ale": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "591ml WCherry Pepsi": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "591ml Crush Orange": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "591ml Seven Up": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "591ml Brsk IceT": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "2Ltr Pepsi": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "2Ltr Diet Pepsi": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "2Ltr Mountain Dew": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "2Ltr Dt Mtn Dew": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "2Ltr Dr Pepper": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "2Ltr Mug Root Beer": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "2Ltr Schw Gngr Ale": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "2Ltr Crush Orange": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "2Ltr Brsk SwTea Lm": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "2Ltr Seven Up": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "355ml Pepsi": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "355ml Diet Pepsi": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "355ml Diet Mtn Dew": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "355ml Dr Pepper": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "355ml Schw Gngr Ale": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "355ml Brsk SwTea Lm": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "355ml Seven Up": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "12oz Welch Gr Soda": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        }
+    },
+    "CHEESE": {
+        "Cheddar Cheese": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Three Cheese Blend": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "String Cheese": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Agropur Cheese": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "2 Cheese": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "3 Cheese": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Feta Cheese": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Philly Whipped Cream Chee": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        }
+    },
+    "MEATS": {
+        "Pepperoni": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Bacon": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Salami": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Italian Sausage": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Anchovies": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Grilled Chicken": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Chicken Popper": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Canadian Bacon": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Philly Cheesesteak": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Sliced Spicy Meatballs": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Meatball": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Beef": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Sausage": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Roasted Wings": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Donair Topping": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        }
+    },
+    "PRODUCE": {
+        "Banana Peppers": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Black Olives": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Pineapple Lg Can": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Mushrooms": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Fresh Spinach": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Green Peppers": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Onions": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Tomatoes": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Pepperoncini Peppers": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Jalapeno Peppers": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Green Olives": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        }
+    },
+    "DOUGH": {
+        "Dough Tray 10": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Dough Tray 12": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Dough Tray 14": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Dough Tray 16": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Chocolate Chip Cookie": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Choc Chip Brownie": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Cinnamon Pull Apart": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Thin Crust 14": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Gluten Free Crust": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        }
+    },
+    "SAUCES": {
+        "Bulk Ranch Sauce": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Pizza Sauce": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Jug Garlic Sauce": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Garlic Sauce Cups": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Pizza Sauce Cups": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Cheese Sauce Cups": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Ranch Sauce Cups": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Barbecue Sauce Cups": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Buffalo Sauce Cups": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Honey Must Sauce Cups": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Blue Cheese Sauce Cups": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Barbecue Sauce": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Garlic Parmesan Sauce Jug": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Buffalo Sauce": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Pouch Honey Chptl": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "BBQ Bulk": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Alfredo Sauce": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Spinach Alfredo Sauce": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Cream Cheese Flavored Ici": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Creamy Garlic Dipping Cup": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Donair Sauce": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Hellman's Bulk Ranch": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        }
+    },
+    "SEASONS/FLOUR": {
+        "Italian Seasoning": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Seasoning Packets": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Parmesan": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Crushed Red Pepper": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Dustinator": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        }
+    },
+    "BOXES": {
+        "Pizza Box 10": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Pizza Box 12": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Pizza Box 14": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Pizza Box 16": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        },
+        "Pizza Slice Box": {
+            "Begin": 427.0,
+            "Delivery": 300.0,
+            "End": 412.0,
+            "Used": 315.0,
+            "Cost": 129.15,
+            "% of sales": 0.68
+        }
+    }
+}
