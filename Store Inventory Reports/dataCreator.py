@@ -1,10 +1,11 @@
-import pdfplumber
 import json
+import pdfplumber
 import pandas as pd
 from copy import deepcopy
 
 # File path for weather data
-weather_data_path = '~/Order-Assistant/WeatherData.csv'
+file_path = '/Users/ani/Documents/GitHub/Order-Assistant/Store Inventory Reports/'
+weather_file = 'WeatherData.csv'
 data_columns = [
     'Begin', 
     'Delivery', 
@@ -16,7 +17,6 @@ data_columns = [
 
 data = {}
 
-# list of all items
 drinks = {
     '591ml Pepsi': False,
     '591ml Diet Pepsi': False,
@@ -269,7 +269,7 @@ def getWeatherData(path):
 
 # save data to file
 def saveToFile(data, num):
-    with open(f'data/data{num}.json', 'w', encoding='utf-8') as f:
+    with open(file_path + f'data/data{num}.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 
@@ -277,7 +277,6 @@ def saveToFile(data, num):
 def mergeData(weather_data: dict, store_data: dict, date: str):
     try:
         store_data['AvgTempC'] = weather_data[date]
-        print(weather_data[date])
     except KeyError:
         print(f'Date {date} has no weather data')
         store_data['AvgTempC'] = None
@@ -287,15 +286,15 @@ def mergeData(weather_data: dict, store_data: dict, date: str):
 
 if __name__ == "__main__":
     # extract data from all data files and save it into one large JSON file
-    weather_data = getWeatherData(weather_data_path)
+    weather_data = getWeatherData(file_path + weather_file)
 
-    NUMBER_OF_FILES = 3
+    NUMBER_OF_FILES = 105
 
     for i in range(NUMBER_OF_FILES):
         file_no = i + 1
         store_data_file = f'StoreReports-{file_no}.pdf'
         # date, week_data = extrator(store_data_path + store_data_file)
-        date, week_data = extrator(store_data_file)
+        date, week_data = extrator(file_path + store_data_file)
 
         mergeData(weather_data, week_data, date)
         print(f'Added data {i}')
